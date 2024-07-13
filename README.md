@@ -19,5 +19,5 @@ Projeto realizado durante a minha formação em desenvolvimento full-stack, onde
 
 ## Visit the web page
 
-<a href="https://galaxies-t1zj.vercel.app/"><img src="https://github.com/user-attachments/assets/25ae98f5-e73d-4a2b-8c04-b37d0b4ebcbe" alt="Pagina de galaxias"/></a>
+<a href="https://galaxies-t1zj.vercel.app/"><img src="https://github.com/user-attachments/assets/e30aa1db-ea31-48f0-ae0d-fc0d516466c5" alt="Pagina de galaxias"/></a>
 
