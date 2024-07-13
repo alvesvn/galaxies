@@ -17,7 +17,7 @@ Projeto realizado durante a minha formação em desenvolvimento full-stack, onde
 - Aplicação de estilos CSS para formatação do layout.
 - Inclusão de fontes e cores personalizadas.
 
-## Visit the web pages
+## Visit the web page
 
-<a href="https://travelgram-three.vercel.app/"><img src="https://github.com/user-attachments/assets/25ae98f5-e73d-4a2b-8c04-b37d0b4ebcbe" alt="Pagina de galaxias"/></a>
+<a href="https://galaxies-t1zj.vercel.app/"><img src="https://github.com/user-attachments/assets/25ae98f5-e73d-4a2b-8c04-b37d0b4ebcbe" alt="Pagina de galaxias"/></a>
 
